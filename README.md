@@ -1,1 +1,1 @@
-demo Template engines (pug-> html) expressjs 
+demo GET method (how to search data from database)
