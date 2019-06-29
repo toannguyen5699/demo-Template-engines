@@ -1,7 +1,7 @@
 {
   "name": "demo2",
   "version": "1.0.0",
-  "description": "",
+  "description": "demo Template engines (pug-> html) expressjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,14 @@
   "dependencies": {
     "express": "^4.17.1",
     "pug": "^2.0.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toannguyen5699/demo-Template-engines.git"
+  },
+  "bugs": {
+    "url": "https://github.com/toannguyen5699/demo-Template-engines/issues"
+  },
+  "homepage": "https://github.com/toannguyen5699/demo-Template-engines#readme"
 }
